@@ -154,9 +154,9 @@ We are partnered with [OSS Insight](https://ossinsight.io/?utm_source=githubvs&u
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/shamiitltd"><img alt="" src="https://avatars.githubusercontent.com/shamiitltd" width="100px;"><br><sub><b>netcon</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=shamiitltd" title="Code">💻 🖋</a></td> </a></td>
-    <td align="center"><a href="https://github.com/xcv58"><img alt="" src="https://avatars.githubusercontent.com/xcv58" width="100px;"><br><sub><b>xcv58</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=xcv58" title="Code">💻 🖋</a></td></a></td>
-    <td align="center"><a href="https://github.com/Siddhant-K-code"><img alt="" src="https://avatars.githubusercontent.com/Siddhant-K-code" width="100px;"><br><sub><b>Siddhant Khare</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=Siddhant-K-code" title="Code">💻 🖋</a></td> </a></td>
+    <td align="center"><a href="https://github.com/shamiitltd"><img alt="" src="https://avatars.githubusercontent.com/shamiitltd" width="100px;"><br><sub><b>SHAMIIT</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=shamiitltd" title="Code">💻 🖋</a></td> </a></td>
+    <!--td align="center"><a href="https://github.com/xcv58"><img alt="" src="https://avatars.githubusercontent.com/xcv58" width="100px;"><br><sub><b>xcv58</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=xcv58" title="Code">💻 🖋</a></td></a></td>
+    <td align="center"><a href="https://github.com/naresh-upadhyay"><img alt="" src="https://avatars.githubusercontent.com/naresh-upadhyay" width="100px;"><br><sub><b>King Upadhyay</b></sub></a><br><a href="https://github.com/shamiitltd/githubvs/commits?author=naresh-upadhyay" title="Code">💻 🖋</a></td> </a></td-->
   </tr>
 </tbody></table>
 
