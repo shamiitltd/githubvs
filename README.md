@@ -10,7 +10,7 @@ Just add `1s` after `github` and press `Enter` in the browser address bar for an
 
 For example, try it on the VS Code repo:
 
-[https://githubvs.com/microsoft/vscode](https://githubvs.com/microsoft/vscode)
+[https://githubvs.shamiit.com/microsoft/vscode](https://githubvs.shamiit.com/microsoft/vscode)
 
 ![VS Code - githubvs](https://raw.githubusercontent.com/shamiitltd/githubvs/master/resources/images/vs-code-githubvs.png)
 
@@ -18,10 +18,10 @@ You can also use [https://gitlab1s.com](https://gitlab1s.com) or [https://npmjs1
 
 For browser extensions, see [Third-party Related Projects](https://github.com/shamiitltd/githubvs#third-party-related-projects).
 
-Or save the following code snippet as a bookmarklet, you can use it to quickly switch between github.com and githubvs.com (GitHub markdown doesn't allow js links, so just copy it into a bookmark).
+Or save the following code snippet as a bookmarklet, you can use it to quickly switch between github.com and githubvs.shamiit.com (GitHub markdown doesn't allow js links, so just copy it into a bookmark).
 
 ```
-javascript: window.location.href = window.location.href.replace(/github(1s)?.com/, function(match, p1) { return p1 ? 'github.com' : 'githubvs.com' })
+javascript: window.location.href = window.location.href.replace(/github(1s)?.com/, function(match, p1) { return p1 ? 'github.com' : 'githubvs.shamiit.com' })
 ```
 
 ### Develop in the cloud
