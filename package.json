@@ -47,6 +47,8 @@
     "yalc": "yalc publish vscode-web && yalc add -D @github1s/vscode-web",
     "build:vscode": "cd vscode-web && yarn build",
     "watch": "rm -rf dist && run-p watch:*",
+    "pre-watch": "if not exist dist mkdir dist",
+    "watch-win": "if exist dist rd /s /q dist && run-p watch:*",
     "watch-vscode": "cd vscode-web && yarn watch",
     "watch-with-vscode": "DEV_VSCODE=true run-p watch watch-vscode",
     "watch:dev-server": "webpack serve --mode=development",
