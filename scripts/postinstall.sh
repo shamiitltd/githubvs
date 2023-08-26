@@ -10,7 +10,7 @@ function main() {
 	do
 		if [ -f "$entry/package.json" ]
 		then
-			cd $entry
+			cd "$entry"
 			yarn --frozen-lockfile
 		fi
 	done
